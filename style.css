@@ -1,0 +1,129 @@
+body {
+  font-family: 'Karla', sans-serif;
+  margin: 0;
+  padding: 0;
+  font-size: 16px;
+  width: 1440px;
+  background-color: #F0f0f0;
+}
+
+.frist {
+  color: #2AB2AF;
+}
+
+.second {
+  color: #c0df34;
+}
+
+.top-div {
+  width: 1440px;
+  height: 700px;
+  background-color: white;
+  position: absolute;
+  top: 25px;
+  left: 50px;
+  border-radius: 10px;
+}
+
+.top-element {
+  width: 1200px;
+  font-weight: 700;
+  position: relative;
+  top: 25px;
+  left: 50px;
+}
+
+.bottom-1 {
+  height: 420px;
+  width: 720px;
+  background-color: #2bb3b1;
+  color: white;
+  border-bottom-left-radius: 10px;
+  position: relative;
+  top: 55px;
+}
+
+.month {
+  color: #62d1d2;
+  font-size: 20px;
+}
+
+h3 {
+  color: #abeded;
+}
+
+.rate {
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.base {
+  width: 400px;
+  position: relative;
+  top: 100px;
+  left: 170px;
+}
+
+.bottom-2 {
+  height: 420px;
+  width: 720px;
+  background-color: #4abebd;
+  border-bottom-right-radius: 15px;
+  color: white;
+  position: relative;
+  bottom: 387px;
+  left: 720px;
+}
+
+.para {
+  line-height: 1.75;
+}
+
+.base-2 {
+  width: 400px;
+  position: relative;
+  top: 95px;
+  left: 170px;
+}
+
+.discription {
+  line-height: 2;
+  margin-bottom: 0;
+  color: #98a6bd;
+}
+
+.myButton {
+  background-color: #bfdf32;
+  border-radius: 8px;
+  border: 1px solid #bfbf32;
+  display: inline-block;
+  cursor: pointer;
+  color: #ffffff;
+  font-family: 'Karla', sans-serif;
+  font-size: 17px;
+  font-weight: bold;
+  padding: 20px 76px;
+  text-decoration: none;
+  text-shadow: 0 1px 0 #2f6627;
+  position: relative;
+  left: 30px;
+  top: 50px;
+}
+
+.myButton:hover {
+  background-color: #acc82d;
+}
+
+.myButton:active {
+  position: relative;
+  top: 1px;
+}
+
+.challange{
+  font-size: 12px;
+  position: absolute;
+  top:725px;
+  left: 625px;
+}
+
+/*************************************************************************************************************************************/
